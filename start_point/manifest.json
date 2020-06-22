@@ -1,15 +1,19 @@
 {
-  "image_name": "cyberdojofoundation/gpp_googletest",
+  "image_name": "cyberdojofoundation/gpp_googletest:7bbb745",
   "display_name": "C++ (g++), GoogleTest",
-  "visible_filenames":
-  [
+  "visible_filenames": [
     "hiker.tests.cpp",
     "hiker.cpp",
     "hiker.hpp",
     "makefile",
     "cyber-dojo.sh"
   ],
-  "filename_extension": [ ".cpp", ".hpp", ".c", ".h" ],
+  "filename_extension": [
+    ".cpp",
+    ".hpp",
+    ".c",
+    ".h"
+  ],
   "max_seconds": 15,
   "tab_size": 4
 }
