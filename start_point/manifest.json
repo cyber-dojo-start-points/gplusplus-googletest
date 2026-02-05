@@ -1,6 +1,6 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/gpp_googletest:395ca50",
-  "display_name": "C++ (g++ 15.1.0), GoogleTest 1.12.1",
+  "image_name": "ghcr.io/cyber-dojo-languages/gpp_googletest:8c054e3",
+  "display_name": "C++ (g++ 15.2.0), GoogleTest 1.17.0",
   "visible_filenames": [
     "hiker.tests.cpp",
     "hiker.cpp",
